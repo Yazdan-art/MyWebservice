@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyWebservice1</string>
+    <string name="next_section">next_section</string>
+    <string name="http">http://192.168.1.101/MyWebService/</string>
 </resources>
